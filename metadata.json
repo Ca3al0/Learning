@@ -1,0 +1,8 @@
+{
+  "name": "Albion — Dominio Integral del Inglés",
+  "description": "Plataforma adaptativa para aprender inglés desde A1 hasta C2 con diagnóstico lingüístico en tiempo real, currículo estructurado, laboratorio de escritura, fonética IPA y repetición espaciada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
